@@ -19,4 +19,4 @@ This Java program calculates the average of valid grades (0-100) and determines 
 2. Invalid grades (<0 or >100) are ignored.
 3. Program calculates and displays the average.
 4. If average ≥ 55: **"You passed!"**; otherwise: **"You failed."**
-Enjoy using the program! 😊✨
+- Enjoy using the program! 😊✨
