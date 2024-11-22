@@ -9,4 +9,4 @@ Basit bir Java programı:
 - Kullanıcı adı ve şifre kontrolü ✅
 - Unutulan şifreyi sıfırlama seçeneği sunar 🔄
 - Yeni şifrenin eski şifreyle aynı olmadığını kontrol eder ❌
-Güvenli ve kullanıcı dostu bir doğrulamanın keyfini çıkarın! 🔐✨
+- Güvenli ve kullanıcı dostu bir doğrulamanın keyfini çıkarın! 🔐✨
